@@ -1,0 +1,1 @@
+Just some things I'm thinking about (at least, the code related ones)
